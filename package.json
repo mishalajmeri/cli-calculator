@@ -1,6 +1,6 @@
 {
   "name": "m8uo3_simple-calculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Making cli caculator with typescript inquirer",
   "main": "index.js",
   "type": "module",
